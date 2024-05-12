@@ -1,6 +1,6 @@
 # Computer-vision-via-YOLO
 
-Uploading DEMO YOLO VIDEO.mp4…
+https://github.com/2103323/Computer-vision-via-YOLO/assets/98270897/b27282da-77bc-4907-b067-378dd7181b05
 
 # YOLO Object Detection with OpenCV
 
