@@ -27,7 +27,7 @@ pip install 'git+https://github.com/ultralytics/yolov5.git'
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/2103323/Computer-vision-via-YOLO
+git clone https://github.com/2103323/Computer-vision-via-YOLO.git
 cd yolo-opencv
 ```
 
